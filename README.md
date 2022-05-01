@@ -12,9 +12,12 @@ IDE : Pycharm, Android Studio
 
     #MODULES
 
-• Admin ▪ Mange Workshop ▪ Mange Service Center ▪ View Users ▪ View Complaints and sent Reply ▪ View feedback ▪ View Rating 
+• Admin ▪ Mange Workshop ▪ Mange Service Center ▪ View Users ▪ View Complaints and sent Reply ▪ View feedback ▪ View Rating
+
 • Workshop ▪ Registration/Login ▪ View profile ▪ Manage Workers ▪ View/Accept/Reject Requests ▪ Manage Crane ▪ Manage Spare ▪ Manage Accounts ▪ Chat with Customer ▪ View rating ▪ View Feedbacks 
+
 • Service Centers ▪ Registration/Login ▪ View/Edit profile ▪ Manage Services ▪ View/Accept/Reject Requests ▪ Manage Employee ▪ View Feedbacks ▪ View Rating ▪ Manage Offers ▪ Chat with Customer 
+
 • Users ▪ Registration ▪ Login ▪ View/ Request Workshops ▪ View/ Request Service Centers ▪ View Request Status ▪ Sent complaint and view reply ▪ View/submit rating ▪ View/Sent feedback ▪ Chat with Workshop/Service Center ▪ payment
 
 #### PUT EVERYFILES IN ONEFOLDE EXCEPT ANDROID FILES  
