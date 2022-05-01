@@ -20,5 +20,3 @@ IDE : Pycharm, Android Studio
 
 • Users ▪ Registration ▪ Login ▪ View/ Request Workshops ▪ View/ Request Service Centers ▪ View Request Status ▪ Sent complaint and view reply ▪ View/submit rating ▪ View/Sent feedback ▪ Chat with Workshop/Service Center ▪ payment
 
-#### PUT EVERYFILES IN ONEFOLDE EXCEPT ANDROID FILES  
-
